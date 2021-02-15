@@ -1,6 +1,6 @@
 # Lab1
 **Part 1**
-![](images/csamulipliertbSS)
+![](images/csamulipliertbSS.PNG)
 
 **Part 2**
 
